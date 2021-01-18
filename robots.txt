@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shameerpuri.github.io/secagency/sitemap.xml
