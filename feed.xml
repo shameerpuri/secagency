@@ -1,14 +1,468 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>SPSS</title>
+    <title>SP Security Services</title>
     <link href="https://shameerpuri.github.io/secagency/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/secagency" />
-    <updated>2021-01-19T19:43:31+05:30</updated>
+    <updated>2021-01-21T19:40:12+05:30</updated>
     <author>
         <name>Shameer</name>
     </author>
     <id>https://shameerpuri.github.io/secagency</id>
 
+    <entry>
+        <title>Home -1</title>
+        <author>
+            <name>Shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/secagency/home-1/"/>
+        <id>https://shameerpuri.github.io/secagency/home-1/</id>
+
+        <updated>2021-01-21T19:30:07+05:30</updated>
+            <summary>
+                <![CDATA[
+                    OUR SERVICES Concierge Security A front desk manager / concierge is an essential team player for the successful and smooth operations of security to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 data-fontsize="26" data-lineheight="33">OUR SERVICES</h2>
+<div class="fusion-sep-clear"> </div>
+<div class="fusion-separator sep-single"> </div>
+<div class="fusion-content-boxes content-boxes columns fusion-columns-3 fusion-columns-total-9 fusion-content-boxes-1 content-boxes-icon-on-side row content-left" data-animationoffset="100%">
+<div class="fusion-column content-box-column content-box-column-1 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover content-box-column-first-in-row">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/concirge-icon.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Concierge Security</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">A front desk manager / concierge is an essential team player for the successful and smooth operations of security to your condominium or apartment building…
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/concierge-security" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-column content-box-column content-box-column-2 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/corporate.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Corporate Security</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">Globalization of risks, such as terror has changed the structure and pace of corporate security. Northern Force Security provides corporate security services…
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/corporate-security/" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-column content-box-column content-box-column-3 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover content-box-column-last-in-row">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/security-icon.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Security Consulting</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">Northern Force Security assists businesses and individuals in reducing security risks, while providing the right balance of defense, protection, safety …
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/security-consulting/" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="fusion-column content-box-column content-box-column-4 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover content-box-column-first-in-row">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/vip-security-icon.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">VIP Protection</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">Distinguished people require constant security service in order to maintain their privacy and protect their reputation…
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/executive-vip-protection/" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-column content-box-column content-box-column-5 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/event-security-icon.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Events Security</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">Today public gatherings require a high level of security protection in light of the growing threat of terror and criminal activity…
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/events-security/" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-column content-box-column content-box-column-6 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover content-box-column-last-in-row">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/institute-security-icon.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Institutional Security</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">Northern Force Security provides highly trained security personnel focused on providing excellent solutions for your institutions…
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/institutional-security/" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="fusion-column content-box-column content-box-column-7 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover content-box-column-first-in-row">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/armed-security.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Armed Transportation</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">Northern Force Security is an armed transportation<strong> </strong>service provider, operating throughout the province of Ontario.
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/armed-transportation/" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-column content-box-column content-box-column-8 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/neighborhood-icon.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Neighbourhood Protection</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">We’ll take care of your neighbourhood. You can take care of what matters most.
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/neighbourhood-protection/" target="_self">Read More</a>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+</div>
+<div class="fusion-column content-box-column content-box-column-9 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover content-box-column-last content-box-column-last-in-row">
+<div class="col content-wrapper link-area-link-icon link-type-text icon-hover-animation-fade fusion-animated" data-animationtype="fadeInUp" data-animationduration="1" data-animationoffset="100%">
+<div class="heading heading-with-icon icon-left">
+<div class="image"><img loading="lazy" src="https://nfsecurity.ca/wp-content/uploads/2016/10/patrol-icon.png" data-is-external-image="true"  alt="" width="60" height="60"></div>
+<h2 class="content-box-heading" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="24" data-lineheight="29">Mobile Patrol Service</h2>
+</div>
+<div class="fusion-clearfix"> </div>
+<div class="content-container">Northern Force Security mobile patrol security professionals are all Level 3 security guards, trained in Use of Force, Terror awareness, CPR C and more.
+<div class="fusion-clearfix"> </div>
+<a class="fusion-read-more" href="https://nfsecurity.ca/mobile-patrol-service/" target="_self">Read More</a></div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bodyguards</title>
+        <author>
+            <name>Shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/secagency/bodyguards/"/>
+        <id>https://shameerpuri.github.io/secagency/bodyguards/</id>
+
+        <updated>2021-01-21T19:28:21+05:30</updated>
+            <summary>
+                <![CDATA[
+                    EXECUTIVE SECURITY SERVICES Depending on your profession or lifestyle, some everyday situations may not be entirely risk-free, regardless of if the threat is opportunistic&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section id="executive" class="elementor-element elementor-element-7d241a4e elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7d241a4e" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-7b8bda9b elementor-column elementor-col-50 elementor-top-column" data-id="7b8bda9b" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-125581b6 elementor-widget elementor-widget-heading" data-id="125581b6" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-large">EXECUTIVE SECURITY SERVICES</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-1f48864f elementor-widget elementor-widget-text-editor" data-id="1f48864f" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>Depending on your profession or lifestyle, some everyday situations may not be entirely risk-free, regardless of if the threat is opportunistic or planned. Incidents that affect personal safety, both indirectly or directly, can and do occur each day. From government officials, executives, VIPs, celebrities and others who are seeking protective services, Securivex’s executive protection can be deployed as teams or individuals to provide you with the executive protection necessary for your well-being and peace of mind.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-fcd9adc elementor-column elementor-col-50 elementor-top-column" data-id="fcd9adc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5636d50c elementor-widget elementor-widget-image" data-id="5636d50c" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image"><figure class="attachment-full size-full"><img loading="lazy"  src="http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280.jpg" data-is-external-image="true"  sizes="(max-width: 1280px) 100vw, 1280px" srcset="http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280.jpg 1280w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-300x200.jpg 300w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-768x512.jpg 768w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-1024x682.jpg 1024w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-69x46.jpg 69w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-120x80.jpg 120w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-394x263.jpg 394w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-915x610.jpg 915w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-1240x826.jpg 1240w, http://securivexindia.com/wp-content/uploads/2019/06/man-4134779_1280-600x400.jpg 600w" alt="" width="1280" height="853"></figure></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="personal" class="elementor-element elementor-element-a0a8435 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="a0a8435" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-c344fa1 elementor-column elementor-col-50 elementor-top-column" data-id="c344fa1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-6565112 elementor-widget elementor-widget-image" data-id="6565112" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image"><figure class="attachment-full size-full"><img loading="lazy"  src="http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920.jpg" data-is-external-image="true"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920.jpg 1920w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-300x228.jpg 300w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-768x583.jpg 768w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-1024x778.jpg 1024w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-61x46.jpg 61w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-105x80.jpg 105w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-394x299.jpg 394w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-915x695.jpg 915w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-1240x942.jpg 1240w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-1422x1080.jpg 1422w, http://securivexindia.com/wp-content/uploads/2019/06/agent-1239350_1920-600x456.jpg 600w" alt="" width="1920" height="1458"></figure></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-b4a6645 elementor-column elementor-col-50 elementor-top-column" data-id="b4a6645" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-ac28e37 elementor-widget elementor-widget-heading" data-id="ac28e37" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-large">Personal Bodyguard Protection Services</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-495aa6a elementor-widget elementor-widget-text-editor" data-id="495aa6a" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>If you’re a VIP, executive, celebrity, rapper, artist, politician, banker or just looking for personal protection and are looking to hire a bodyguard, Securivex Service offers the expertise you can trust. Some of the world’s rich and famous trust our bodyguards to keep them safe. protection can be deployed as teams or individuals to provide you with the executive protection necessary for your well-being and peace of mind.we are trained experts in private security, being able to provide staff for, private vip transportation, private security for executives, celebrities and even personal concierge services which require discreet operations by trained professionals.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Surveillance</title>
+        <author>
+            <name>Shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/secagency/surveillance/"/>
+        <id>https://shameerpuri.github.io/secagency/surveillance/</id>
+
+        <updated>2021-01-21T19:27:48+05:30</updated>
+            <summary>
+                <![CDATA[
+                    PRIVATE INVESTIGATOR SERVICES We understand that when you hire a private investigator, it is because you are seeking answers. While we go about our&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section id="private" class="elementor-element elementor-element-0686d90 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="0686d90" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-85e88d7 elementor-column elementor-col-50 elementor-top-column" data-id="85e88d7" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-fa4a860 elementor-widget elementor-widget-heading" data-id="fa4a860" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-large">PRIVATE INVESTIGATOR SERVICES</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-945017d elementor-widget elementor-widget-text-editor" data-id="945017d" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>We understand that when you hire a private investigator, it is because you are seeking answers. While we go about our job to help you find these answers, we will keep the information and our efforts quiet. We remain professional, discreet and cordial throughout the process, ensuring the results of what we find exceed your expectations. You can have confidence that we will leave no stone unturned when it comes to helping you get the answers you need to go on with your life.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-element elementor-element-3ce756a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3ce756a" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-0ef6254 elementor-column elementor-col-100 elementor-top-column" data-id="0ef6254" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-434a56e elementor-widget elementor-widget-text-editor" data-id="434a56e" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>Our team is dedicated to helping you find the information you need to prove a legal case, find a missing person or handle other issues you are facing. Some of the specific services that are offered including:</p>
+</div>
+</div>
+</div>
+<section class="elementor-element elementor-element-bf024be elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="bf024be" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-01d38bf elementor-column elementor-col-50 elementor-inner-column" data-id="01d38bf" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5d5245c elementor-widget elementor-widget-text-editor" data-id="5d5245c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<ul>
+<li>Adultery</li>
+<li>Infidelity</li>
+<li>Surveillance</li>
+<li>Finding missing persons</li>
+<li>Fraud investigations</li>
+<li>Deep research</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-64de007 elementor-column elementor-col-50 elementor-inner-column" data-id="64de007" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cbd039e elementor-widget elementor-widget-text-editor" data-id="cbd039e" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<ul>
+<li>Background checks</li>
+<li>Online dating</li>
+<li>Infidelity</li>
+<li>Child custody</li>
+<li>Divorce Support</li>
+<li>Forensic Recovery Services</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="cctv" class="elementor-element elementor-element-60dd7ba7 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="60dd7ba7" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-326f5f8b elementor-column elementor-col-50 elementor-top-column" data-id="326f5f8b" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5ddff328 elementor-widget elementor-widget-heading" data-id="5ddff328" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-large">SECURITY CCTV CAMERA</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-1de0501b elementor-widget elementor-widget-text-editor" data-id="1de0501b" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">With Securivex you don’t have to let thieves, shoplifters or anyone else destroy your store, cost you money during the busy season, or result in you having to close your doors. By hiring Securivex, you can prevent direct loss. The team can help protect your store while teaching your work staff how to ensure theft doesn’t affect the business. 
+<p>Securivex can provide help with all the following to prevent trade loss  &amp; theft:</p>
+<ul>
+<li>Wireless Security Camera Installation</li>
+<li>Home Alarm Systems &amp; CCTV</li>
+<li>Business Alarm Systems &amp; CCTV</li>
+<li>Smart Phone Compatible Camera Systems</li>
+<li>Remote CCTV Monitoring and Response</li>
+<li>24/7 Control Room Monitoring</li>
+<li>Rapid Incident Response</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Security Audit &amp; Partnerships</title>
+        <author>
+            <name>Shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/secagency/security-audit-and-partnerships/"/>
+        <id>https://shameerpuri.github.io/secagency/security-audit-and-partnerships/</id>
+
+        <updated>2021-01-21T19:40:12+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Allign with best security standards A Company in Security, Corporate Investigation, Cyber Security and other Service provisions, covering the diverse subjects of the various&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section id="intro" class="elementor-element elementor-element-4da08d55 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4da08d55" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-556805ff elementor-column elementor-col-50 elementor-top-column" data-id="556805ff" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-d5a3178 elementor-widget elementor-widget-heading" data-id="d5a3178" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-large"><span style="text-decoration: underline;"><strong>Allign with best security standards</strong></span></h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-6c6436af elementor-widget elementor-widget-text-editor" data-id="6c6436af" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">A Company in Security, Corporate Investigation, Cyber Security and other Service provisions, covering the diverse subjects of the various amalgamates of Security are looking for a tie up in various states of India, with established Private Security Agencies run by only Ex-Defence officers for colaboration in its operations nationaly and internationally. The most important thing for any security business is presence of demand of service. The Company has multiple demand generation channels spread across the country in private and government sectors.The Company also keeps on innovating their strategies to attract a high number of demand of security services while maintaining the dignity of the Ex-Defence Officers running the Private Security Agencies so that the Veteran Officers are not harassed in looking for work.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1e804ddc elementor-column elementor-col-50 elementor-top-column" data-id="1e804ddc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-d82e098 elementor-widget elementor-widget-image" data-id="d82e098" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image"><figure class="attachment-full size-full"><img loading="lazy"  src="http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280.jpg" data-is-external-image="true"  sizes="(max-width: 1280px) 100vw, 1280px" srcset="http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280.jpg 1280w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-300x200.jpg 300w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-768x512.jpg 768w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-1024x682.jpg 1024w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-69x46.jpg 69w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-120x80.jpg 120w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-394x263.jpg 394w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-915x610.jpg 915w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-1240x826.jpg 1240w, http://securivexindia.com/wp-content/uploads/2019/06/business-3167295_1280-600x400.jpg 600w" alt="" width="1280" height="853"></figure></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-element elementor-element-53e36c5 elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="53e36c5" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-a44f44d elementor-column elementor-col-100 elementor-top-column" data-id="a44f44d" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-44ae6be elementor-widget elementor-widget-text-editor" data-id="44ae6be" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">The moment a Security Company gets on board with the company, the company will assist in standardising and upgrading the service to match the INDUSTRY standards set by the company, which will result in Security agencies getting a top-notch transformation in compliance with the best of security standards.The Company also provide inputs on staff training and on delivering processes, for maximum impact.</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-86c4117 elementor-widget elementor-widget-text-editor" data-id="86c4117" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">The Company invites interest from all such private Security Agencies in receipt of statutory licences on a pan India basis to align with us and grow together.The Company aim is to build long-term partnership with the end goal of delivering value to the clients. We seek expression of interest from interested patrons to work out mutual modalities of interest.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Services</title>
         <author>
@@ -20,7 +474,7 @@
         <updated>2021-01-19T19:43:31+05:30</updated>
             <summary>
                 <![CDATA[
-                    Commercial Security ServicesModern businesses face an ever growing assortment of security and safety concerns. We understand that the need for industrial and business security guards is&hellip;
+                    Commercial Security Services Modern businesses face an ever growing assortment of security and safety concerns. We understand that the need for industrial and business security&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -418,15 +872,11 @@
         <id>https://shameerpuri.github.io/secagency/gallery-1/</id>
 
         <updated>2021-01-19T11:39:22+05:30</updated>
-            <summary>
-                <![CDATA[
-                     
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
-  <div  class="gallery-wrapper gallery-wrapper--center">
+  <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://shameerpuri.github.io/secagency/media/posts/18/gallery/AdobeStock_250313062-e1569590976946.jpeg" data-size="1200x675">
@@ -535,7 +985,7 @@
         <updated>2021-01-19T19:12:54+05:30</updated>
             <summary>
                 <![CDATA[
-                    Talk to ReceptionJust pick up the phone to chat with a member of our sales team 01893-------- 
+                    Talk to Reception Just pick up the phone to chat with a member of our sales team 01893--------
                 ]]>
             </summary>
         <content type="html">
@@ -607,7 +1057,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/secagency/media/posts/16/special-event-1.jpg" alt="" />
-                    Special Event Security GuardsToronto Event Security: Today public gatherings require a high level of security protection in light of the growing threat of terror&hellip;
+                    Special Event Security Guards Toronto Event Security: Today public gatherings require a high level of security protection in light of the growing threat of&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -657,7 +1107,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://shameerpuri.github.io/secagency/media/posts/15/VIP-security.jpg" alt="" />
-                    Executive and VIP Protection Bodyguard ServicesHire Executive and VIP Protection Bodyguard Services. Distinguished people require constant security service in order to maintain their privacy&hellip;
+                    Executive and VIP Protection Bodyguard Services Hire Executive and VIP Protection Bodyguard Services. Distinguished people require constant security service in order to maintain their&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -692,213 +1142,6 @@
 </div>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Security Consulting</title>
-        <author>
-            <name>Shameer</name>
-        </author>
-        <link href="https://shameerpuri.github.io/secagency/security-consulting/"/>
-        <id>https://shameerpuri.github.io/secagency/security-consulting/</id>
-
-        <updated>2021-01-18T18:15:48+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://shameerpuri.github.io/secagency/media/posts/14/consulting.jpg" alt="" />
-                    Security Consulting Toronto – Threat and Risk AssessmentsToday’s environment requires professionally developed solutions for day-to-day business operations. Northern Force Security assists businesses and individuals&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://shameerpuri.github.io/secagency/media/posts/14/consulting.jpg" alt="" />
-                <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-1  fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns">
-<div class="fusion-row">
-<h1 data-fontsize="34" data-lineheight="47"><span class="service-banner">Security Consulting Toronto – Threat and Risk Assessments</span></h1>
-</div>
-</div>
-<div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-none nonhundred-percent-fullwidth">
-<div class="fusion-row">
-<div class="fusion-two-third fusion-layout-column fusion-spacing-yes">
-<div class="fusion-column-wrapper">
-<p class="service-blurb">Today’s environment requires professionally developed solutions for day-to-day business operations.</p>
-<div class="fusion-sep-clear"> </div>
-<div class="fusion-separator fusion-full-width-sep sep-none"> </div>
-<p class="description"><strong>Northern Force Security assists businesses and individuals in reducing security risks, while providing the right balance of defense, protection, safety and customer service.</strong></p>
-<h2 data-fontsize="26" data-lineheight="33">Security Planning and Design.</h2>
-<p>Security planning and design is an essential part of new or existing businesses. Northern Force Security assists businesses to plan and design security protocols, while identifying risks and threats, determining security requirements, establishing security zones and developing security concepts.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Threat and Risk Assessments.</h2>
-<p>Northern Force Security employs a customized Threat and Risk Assessment tool to precisely identify weaknesses in systems, construction, design, structure or manpower to reduce the risk of exploiting these vulnerabilities. We understand that being caught off guard has severe consequences and it is our goal to ensure that you are accurately prepared.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Home and Business Assessments and Solutions.</h2>
-<p>Northern Force Security’s team of professionally trained security experts will come to your residential, commercial, or industrial location to meet with you as a first step. We will then provide you with a detailed analysis of your security threats, risks and current operating systems, and will provide you a customized plan of concrete solutions for security improvements</p>
-</div>
-</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Armed Transportation</title>
-        <author>
-            <name>Shameer</name>
-        </author>
-        <link href="https://shameerpuri.github.io/secagency/armed-transportation/"/>
-        <id>https://shameerpuri.github.io/secagency/armed-transportation/</id>
-
-        <updated>2021-01-18T18:17:05+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://shameerpuri.github.io/secagency/media/posts/13/armed-cover.jpg" alt="" />
-                    Armed TransportationNorthern Force Security is an armed transportation service provider, operating throughout the province of Ontario. Whether you own a company responsible for valuables or need reliable&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://shameerpuri.github.io/secagency/media/posts/13/armed-cover.jpg" alt="" />
-                <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-1  fusion-parallax-fixed nonhundred-percent-fullwidth fusion-equal-height-columns">
-<div class="fusion-row">
-<h1 data-fontsize="34" data-lineheight="47"><span class="service-banner">Armed Transportation</span></h1>
-</div>
-</div>
-<div class="fusion-fullwidth fullwidth-box fusion-fullwidth-2  fusion-parallax-none nonhundred-percent-fullwidth">
-<div class="fusion-row">
-<div class="fusion-two-third fusion-layout-column fusion-spacing-yes">
-<div class="fusion-column-wrapper">
-<p class="service-blurb">Northern Force Security is an armed transportation<strong> </strong>service provider, operating throughout the province of Ontario. Whether you own a company responsible for valuables or need reliable armed transportation, our armed transportation service is here to ensure that your valuable goods are safe and secure.</p>
-<div class="fusion-sep-clear"> </div>
-<div class="fusion-separator fusion-full-width-sep sep-none"> </div>
-<p><strong>We service a wide range of clients in multiple locations, with state of the art armoured vehicles and drivers to serve you better.</strong></p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Clientele of NFS Armed Transportation</h2>
-<p class="m_7552167043610063740gmail-p1">NFS armed transportation service specializes in the secure transportation of valuables goods, making our services crucial for a variety of businesses including manufacturing and research facilities, jewelers, medical organizations and financial institutions. Our armed transportation service answers the demand for secure transportation and handling of valuable goods.</p>
-<p>For such diverse clientele as:</p>
-<ul>
-<li>Trade shows and special events</li>
-<li>Banks and financial institutions</li>
-<li>Medical marijuana facilities</li>
-<li>Jewelry stores and businesses that hold valuable assets</li>
-<li>Services responsible for the transport of medicinal products</li>
-</ul>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Armed Guards</h2>
-<p class="m_7552167043610063740gmail-p1">As a full-service private armed security company, Northern Force Security is committed to providing only fully-licensed and expertly skilled armed guards for your business. We hand pick each member of our armed guard team and provide comprehensive training through NFS internal courses in addition to the mandatory provincial licensing process. Our armed guards are compliant with regulations set forth by the Ministry of Correctional Services and Community Safety and the Chief Firearms Office of the Province of Ontario and proficient in using all technology-based security components.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Training</h2>
-<p>Northern Force Security not only provides quality services, we also train personnel to meet our high standards and to follow Northern Force Security and the provincial Chief Firearms Officer protocols.</p>
-<p>In addition to regular security training, each armed guard undergoes the Provincial CFO courses requirements following in-class education and training before he/she is licensed and approved to serve our clients.</p>
-<p>The courses include:</p>
-<ol>
-<li>5-day Authorization to Carry course</li>
-<li>Annually in class re-qualification course</li>
-<li>Semi-annually range day</li>
-<li>Use of Force training</li>
-</ol>
-<h2 data-fontsize="26" data-lineheight="33">Benefits of NFS Armed Transportation Service</h2>
-<p>Along with using only the best armed guards with superior training and full licensing, NFS armed guard services include these benefits to your business or organization:</p>
-<ul>
-<li><strong>Top Level Armed Security Service for Transported Goods</strong>: When you need to transport cash or other valuables, this can be an extremely high-risk situation for theft with multiple opportunities for criminals to take advantage of vulnerabilities in the transportation. Our armed guards are not only trained to stop theft in progress but are given the resources and training to prevent theft attempts from occurring.</li>
-<li><strong>Convenient 24/7 Pickup and Delivery Options</strong>: Get security that meets your organization’s schedule with our convenient pickup and delivery options.</li>
-<li><strong>Province-Wide Coverage</strong>: If you have multiple locations throughout the province, NFS can ensure each of your properties is fully secured with the same level of superior protection. We have multiple-Office Locations with armored vehicles and armed guards to fulfill all your security needs within Ontario.</li>
-<li><strong>Logistics Professionals with Military Security Training:</strong> when you choose NFS, you get logistics professionals with the highest quality of training from their military experience. This gives them superior abilities to strategize for your company’s protection.</li>
-<li><strong>Technology advantage:</strong> NFS uses top of the art technology that allows the client to overlook their shipment. NFS provides the client with the option to either follow the delivery with their vehicle or follow the transportation through the convenience of their office.</li>
-</ul>
-<h2 data-fontsize="26" data-lineheight="33">NFS Armored Vehicles and Drivers</h2>
-<p><strong>State of the Art Armored Vehicles</strong>: We invest in both ongoing technological advancements and comprehensive maintenance for our vehicles to ensure you get the highest level of security available from our armored vehicle services.  Each armored vehicle includes:</p>
-<ul>
-<li>Professional grade safe</li>
-<li>Fire extinguishers</li>
-<li>Updated GPS and CCTV</li>
-<li>High-quality smart tracking device</li>
-<li>Real-time monitoring</li>
-</ul>
-<h2 data-fontsize="26" data-lineheight="33">Hiring Our Private Armed Security Company</h2>
-<p>NFS takes your security needs very seriously. We are available to answer questions and help assess security risks 24/7 by calling <a href="tel:+16479821385">(647) 982-1385</a>. You can also use our <a href="https://nfsecurity.ca/contacts/">contact us</a> form and a knowledgeable representative will be in touch with you shortly.</p>
-</div>
-</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Corporate Security</title>
-        <author>
-            <name>Shameer</name>
-        </author>
-        <link href="https://shameerpuri.github.io/secagency/corporate-security/"/>
-        <id>https://shameerpuri.github.io/secagency/corporate-security/</id>
-
-        <updated>2021-01-18T18:17:26+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://shameerpuri.github.io/secagency/media/posts/12/corporate.jpg" alt="" />
-                    Globalization of risks, such as terror has changed the structure and pace of corporate security. In today’s highly competitive business environment which is under&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://shameerpuri.github.io/secagency/media/posts/12/corporate.jpg" alt="" />
-                <p class="service-blurb">Globalization of risks, such as terror has changed the structure and pace of corporate security. In today’s highly competitive business environment which is under the constant threat of terror and vandalism every business requires tailored corporate security solutions.</p>
-<div class="fusion-sep-clear"> </div>
-<div class="fusion-separator fusion-full-width-sep sep-none"> </div>
-<p><strong>Northern Force Security provides corporate security services such as:</strong></p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Access screening</h2>
-<p>Numerous numbers of visitors and employees enter your building on a daily basis. Unwanted individuals may attempt to enter your facilities in order to harm your business operations. Industrial espionage and trade secrets theft are devious competition methods that may be used by your competitors. Northern Force Security professional guards are trained to identify such activities and report to management, thus securing your business.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Guarding of sites</h2>
-<p>New construction and renovation sites, warehouses and logistics facilities are a perfect place to steal and damage your property, such as vehicles, tools and ruin the work already done. This may be by criminal gangs, unsavory individuals or even your competitors. Northern Force Security professional guards are trained to guard your property and prevent such actions and at the same time, cooperate with relevant authorities.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">CCTV monitoring</h2>
-<p>Nonstop activities take place at your work sites and business locations. These activities must be monitored and analyzed by professional guards who are capable of taking the right action in case of fire, emergency or security breach. Northern Force Security professional guards are trained to operate the most advanced monitoring systems and help you save money.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Crisis planning</h2>
-<p>Your business must be prepared to cope with a variety of security related issues and unexpected situations that may damage your professional operations, in order to reduce your losses and future expenses. Northern Force Security professional consultants are focused on providing you with the right approach and guidance in order to prepare you and your staff for the most efficient crisis management.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Comprehensive security audit</h2>
-<p>Your business is professionally managed and operated but you still may be vulnerable to security breaches and employers’ negligence with respect to security matters. When it comes to auditing and assessing your security policies and protocols, Northern Force Security professional consultants will provide you with tailored security audit and consulting so your assets remain unharmed.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Concierge Security</title>
-        <author>
-            <name>Shameer</name>
-        </author>
-        <link href="https://shameerpuri.github.io/secagency/concierge-security/"/>
-        <id>https://shameerpuri.github.io/secagency/concierge-security/</id>
-
-        <updated>2021-01-18T18:17:42+05:30</updated>
-            <summary>
-                <![CDATA[
-                    NFS works in partnership with Property Management Companies and provides immediate solution to client’s requests and demands. Concierge Services by Northern Force Security’s professional&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="service-blurb">NFS works in partnership with Property Management Companies and provides immediate solution to client’s requests and demands.</p>
-<div class="fusion-sep-clear"> </div>
-<div class="fusion-separator fusion-full-width-sep sep-none"> </div>
-<p><strong>Concierge Services by Northern Force Security’s professional guards and concierges perform services such as:</strong></p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Front desk concierge</h2>
-<p>A front desk manager/concierge is an essential team player for the successful and smooth operations of security to your condominium or apartment building. Northern Force Security’s professionally trained concierges are focused on visitor management protocols – directing, registering and verifying visitors to improve building security and maintain residents’ safety.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Entrance guarding</h2>
-<p>Hundreds of visitors and guests enter your building on a daily basis are usually legitimate individuals, nonetheless, these visitors may pose a risk to the safety and security of your building. Northern Force Security’s professional guards are trained to identify potential threats and prevent damages to residents and their assets.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Video surveillance monitoring</h2>
-<p>Constant activity takes place everywhere around your premises 24/7. These activities must be monitored and analyzed by professional guards who are capable to make the right decision in order to prevent crime, violence and vandalism. Northern Force Security professional guards are trained to operate the most advanced monitoring systems.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Organized emergency response</h2>
-<p>Unfortunately sometimes, situations transform into an emergency within seconds. Correctly implemented evacuation protocols may save hundreds of lives in case of fire, natural disaster or terror attack. Northern Force Security professional guards are trained to apply evacuation and security protocols and guide residents and guests to safety within a short time and with maximum risk reduction.</p>
-<p> </p>
-<h2 data-fontsize="26" data-lineheight="33">Immediate response</h2>
-<p>Accidents, injuries and crime may occur instantly and professional response and cooperation with police and fire departments is essential. Northern Force Security professional guards are trained to provide immediate and professional response to these accidents preventing potential damages, injuries and loss while cooperating with police and fire department.</p>
             ]]>
         </content>
     </entry>
